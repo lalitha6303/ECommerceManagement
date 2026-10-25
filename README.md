@@ -47,8 +47,6 @@ The project is designed with separate modules to improve code organization, main
 - Activate or deactivate discounts.
 - Calculate discounts based on the configured discount type.
 
-*Note: Applying discounts directly during checkout is planned as an integration step.*
-
 ## Technologies Used
 
 - **Programming Language:** Java
